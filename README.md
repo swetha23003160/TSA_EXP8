@@ -1,7 +1,6 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
-### Date:14/10/2025
-### Name:Dhivya Dharshini B
-### Reg:212223240031
+### Name:swetha.M
+### Reg:212223040223
 
 
 ### AIM:
